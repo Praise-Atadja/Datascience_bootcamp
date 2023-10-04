@@ -1,8 +1,8 @@
 ## Project - Option 1: Let’s say you’re a Product Data Scientist at Instagram. How would you measure the success of the Instagram TV product?
 
-####Instagram TV (IGTV) Metrics Analysis
+#### Instagram TV (IGTV) Metrics Analysis
 
-###Introduction
+### Introduction
 This Python code sample demonstrates how to measure and visualize key metrics for Instagram TV (IGTV) over time. IGTV is an important feature on Instagram, and tracking metrics is crucial for understanding its success and identifying trends.
 
 ### 1. Import Required Libraries
